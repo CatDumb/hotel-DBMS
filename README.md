@@ -1,4 +1,4 @@
-# Database-System-Assignment
+# Hotel Database Management System
 
 ## How to run
 1. Download the zip file.
